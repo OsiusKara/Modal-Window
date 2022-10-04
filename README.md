@@ -13,3 +13,8 @@ I learned a lot about class manipulation, click and keypress events with this pr
 - conditionals
 - loops
 - keypress events
+
+## Screenshots
+
+![FAQ Cards](screenshot1.png)
+![FAQ Cards](screenshot2.png)
